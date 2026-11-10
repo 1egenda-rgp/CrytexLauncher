@@ -1,46 +1,5 @@
 {
-    "pinned": {
-        "ip": "46.174.48.98",
-        "port": "27015",
-        "name": "[",
-        "map": "A+[",
-        "players": 255,
-        "max_players": 255,
-        "country": "",
-        "ping": 9999
-    },
-    "partners": [
-        {
-            "ip": "37.230.228.98",
-            "port": "27016",
-            "name": "",
-            "map": "A/",
-            "players": 255,
-            "max_players": 255,
-            "country": "",
-            "ping": 9999
-        },
-        {
-            "ip": "46.174.48.98",
-            "port": "27015",
-            "name": "",
-            "map": "A",
-            "players": 255,
-            "max_players": 255,
-            "country": "",
-            "ping": 9999
-        }
-    ],
-    "recommended": [
-        {
-            "ip": "46.174.48.98",
-            "port": "27015",
-            "name": "B",
-            "map": "AB",
-            "players": 255,
-            "max_players": 255,
-            "country": "",
-            "ping": 9999
-        }
-    ]
+    "pinned": null,
+    "partners": [],
+    "recommended": []
 }
