@@ -1,5 +1,25 @@
 {
-    "pinned": null,
-    "partners": [],
+    "pinned": {
+        "ip": "37.230.228.98",
+        "port": "27016",
+        "name": "O",
+        "map": "AO",
+        "players": 255,
+        "max_players": 255,
+        "country": "",
+        "ping": 9999
+    },
+    "partners": [
+        {
+            "ip": "37.230.228.98",
+            "port": "27016",
+            "name": "\u0002",
+            "map": "A\u0002",
+            "players": 255,
+            "max_players": 255,
+            "country": "",
+            "ping": 9999
+        }
+    ],
     "recommended": []
 }
